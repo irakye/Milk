@@ -2572,11 +2572,11 @@ input, select, textarea {
 		justify-content: space-between;
 		background-color: #F9F9F9;
 		background-attachment: scroll,								scroll;
-		background-image: url("images/overlay.png"), url("../../images/bg.jpg");
+		background-image: url(""), url("");
 		background-position: top left,							top left;
 		background-repeat: repeat,								no-repeat;
 		background-size: auto,								150%;
-		color: rgba(255, 255, 255, 0.5);
+		color: rgba(249, 249 249, 0.5);
 		height: 100%;
 		left: 0;
 		padding: 8em 4em;
